@@ -1,6 +1,18 @@
 
 # Compte rendu — Analyse de la consommation électrique d’un ménage
 
+# Chaali Ossama 
+
+*Numéro d'étudiant* : 24o10364
+
+*Classe* : CAC1
+
+
+<img src="Chaali Ossama.jpg" style="height:464px;margin-right:432px"/>
+
+<br clear="left"/>
+
+---
 ## 🎯 Objectif de l’analyse
 Comprendre le comportement de la consommation électrique d’un ménage sur une longue période, à partir de mesures effectuées chaque minute pendant près de 4 ans.  
 L’analyse porte donc sur une série temporelle énergétique de grande taille, permettant d’observer les tendances, usages et variables explicatives de la consommation.
